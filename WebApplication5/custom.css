@@ -1,0 +1,68 @@
+﻿.center {
+    text-align: center;
+}
+
+.center-page {
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    top: 108px;
+    bottom: 112px;
+    left: 27px;
+    right: 1523px;
+    margin: auto;
+}
+
+.footer-pos {
+    width: auto;
+    height: auto;
+    position: absolute;
+    top: 600px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+}
+
+
+/*view all products css*/
+
+.probrand {
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 15px;
+    text-transform: uppercase;
+    font-family: sans-serif;
+}
+
+
+.proName {
+    font-size: 13px;
+    line-height: 17px;
+    font-family: sans-serif;
+}
+
+
+.proPrice {
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 17px;
+    font-family: sans-serif;
+}
+
+
+.proOgPrice {
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 17px;
+    font-family: sans-serif;
+    text-decoration: line-through;
+    color: gray;
+}
+
+.proPriceDiscount {
+    font-size: 13px;
+    font-weight: 400;
+    font-family: sans-serif;
+    color: deeppink;
+}
